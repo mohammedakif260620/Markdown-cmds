@@ -42,3 +42,10 @@ INSERT INTO student VALUES
 (3, 'salma', '8th', 25, 'female'),
 (4, 'ubed','7th', 23, 'male');
 ```
+### Tables (|<-pipe symbol)
+it creates boxes for table format
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
